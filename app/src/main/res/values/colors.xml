@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006666</color>
+    <color name="colorPrimaryDark">#003333</color>
+    <color name="colorAccent"> #009999</color>
+
+    <color name="bg">#BADCF4</color>
+
+    <color name="btn">#007399</color>
+
+    <color name="text_color">#001a66</color>
+    <color name="text_questions">#404040</color>
+    <color name="score">#eeeeee</color>
+
+    <color name="button">#ff8080</color>
+</resources>
+
