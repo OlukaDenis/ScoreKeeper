@@ -1,4 +1,4 @@
-package com.mcdennylucaz.courrtcounter;
+package com.mcdennylucaz.ScoreKeeper;
 
 import org.junit.Test;
 
